@@ -1,0 +1,6 @@
+Inter: Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)
+Merriweather: Copyright 2024 The Merriweather Project Authors (https://github.com/EbenSorkin/Merriweather4) with Reserved Font Name "Merriweather".
+
+These notices are preserved from the font files distributed with this app.
+Both fonts are licensed under the SIL Open Font License, Version 1.1.
+The corresponding OFL license copies are included alongside this notice.
